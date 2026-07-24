@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/vatanyazilim/ilksms-eokul-releases-stage?label=Son%20Test%20Sürümü&color=F2820C" alt="Son Test Sürümü" />
-  <img src="https://img.shields.io/github/release-date/vatanyazilim/ilksms-eokul-releases-stage?label=Yayın&color=8B8377" alt="Yayın Tarihi" />
+  <img src="https://img.shields.io/github/v/release/vatanyazilim/ilksms-eokul-releases-stage?label=Son%20Test%20S%C3%BCr%C3%BCm%C3%BC&color=F2820C" alt="Son Test Sürümü" />
+  <img src="https://img.shields.io/github/release-date/vatanyazilim/ilksms-eokul-releases-stage?label=Yay%C4%B1n&color=8B8377" alt="Yayın Tarihi" />
 </p>
 
 ---
